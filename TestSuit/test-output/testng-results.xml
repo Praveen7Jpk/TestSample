@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="32953" started-at="2018-04-28T09:42:03Z" finished-at="2018-04-28T09:42:36Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="32953" started-at="2018-04-28T09:42:03Z" finished-at="2018-04-28T09:42:36Z">
+      <class name="caseItem.NewT">
+        <test-method status="PASS" signature="setup()[pri:0, instance:caseItem.NewT@18be83e4]" name="setup" is-config="true" duration-ms="23874" started-at="2018-04-28T09:42:03Z" finished-at="2018-04-28T09:42:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="flogin()[pri:0, instance:caseItem.NewT@18be83e4]" name="flogin" duration-ms="7493" started-at="2018-04-28T09:42:27Z" finished-at="2018-04-28T09:42:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flogin -->
+        <test-method status="PASS" signature="closure()[pri:0, instance:caseItem.NewT@18be83e4]" name="closure" is-config="true" duration-ms="1537" started-at="2018-04-28T09:42:35Z" finished-at="2018-04-28T09:42:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closure -->
+      </class> <!-- caseItem.NewT -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
