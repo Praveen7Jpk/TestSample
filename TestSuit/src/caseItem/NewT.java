@@ -133,6 +133,7 @@ public class NewT {
   @AfterMethod
   public void closure() {
 	 // driver.close();
+	  driver.quit();
   }
   
 }
